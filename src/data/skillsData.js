@@ -1,14 +1,45 @@
- export const skillsData = [
+export const skillsData = [
+    'Rust',
+    'Python',
+    'C',
+    'C++',
+    'Go',
     'HTML',
-    'Fastify',
-    'Blender',
-    'Figma',
-    'Javascript',
     'CSS',
-    'React',
+    'Java',
+    'JavaScript',
+    'SML',
+    'Prolog',
+    'Matlab',
+    'XML',
     'Django',
+    'FastAPI',
+    'Express',
+    'Nodejs',
+    'ReactJS',
+    'ReactNative',
+    'SQLAlchemy',
+    'AWS',
     'Docker',
-]
+    'GraphQL',
+    'Git',
+    'Kibana',
+    'JIRA',
+    'PostgreSQL',
+    'MySQL',
+    'Elasticsearch',
+    'DynamoDB',
+    'MongoDB',
+    'Redis',
+    'Windows',
+    'Linux',
+    'Github',
+    'Distributed Software Development',
+    'Object Oriented Programming',
+    'System Design',
+    'Design Patterns'
+];
+
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
 // Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new

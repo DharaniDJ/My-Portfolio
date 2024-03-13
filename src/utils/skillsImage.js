@@ -74,11 +74,49 @@ import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
-
+import elasticsearch from '../assets/svg/skills/elasticsearch.svg'
+import kibana from '../assets/svg/skills/kibana.svg'
+import dynamodb from '../assets/svg/skills/dynamodb.svg'
+import rust from '../assets/svg/skills/rust.svg'
+import windows from '../assets/svg/skills/windows.svg'
+import redis from '../assets/svg/skills/redis.svg'
+import prolog from '../assets/svg/skills/prolog.svg'
+import linux from '../assets/svg/skills/linux.svg'
+import xml from '../assets/svg/skills/xml.svg'
+import express from '../assets/svg/skills/express.svg'
+import fastapi from '../assets/svg/skills/fastapi.svg'
+import nodejs from '../assets/svg/skills/nodejs.svg'
+import reactjs from '../assets/svg/skills/reactjs.svg'
 
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
     switch (skillID) {
+        case 'reactjs':
+            return reactjs;
+        case 'nodejs':
+            return nodejs;
+        case 'fastapi':
+            return fastapi;
+        case 'express':
+            return express;
+        case 'linux':
+            return linux;
+        case 'xml':
+            return xml;
+        case 'prolog':
+            return prolog;
+        case 'redis':
+            return redis;
+        case 'windows':
+            return windows;
+        case 'rust':
+            return rust;
+        case 'dynamodb':
+            return dynamodb;
+        case 'kibana':
+            return kibana;
+        case 'elasticsearch':
+            return elasticsearch;
         case 'gcp':
             return gcp;
         case 'html':
