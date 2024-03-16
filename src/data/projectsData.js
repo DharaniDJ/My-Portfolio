@@ -11,38 +11,38 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'MediStreamPACS',
+        projectDesc: 'The project creates a robust PACS-like system, integrating a DICOM server for secure medical imaging data management, comprehensive authentication, and seamless integration with healthcare systems for optimized accessibility and scalability.',
+        tags: ['Python', 'Django'],
+        code: '',
+        demo: '',
         image: one
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Earthquake Web App',
+        projectDesc: 'This project aimed to solve the problem of difficult-to-access USGS earthquake data by creating a user-friendly platform, allowing anyone to easily explore and understand earthquake information.',
+        tags: ['Node.js', 'Express', 'React.js', 'Elasticsearch'],
+        code: 'https://github.com/DharaniDJ/EARTHQUAKE_APP',
+        demo: 'https://github.com/DharaniDJ/EARTHQUAKE_APP',
         image: two
     },
     {
         id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Listify',
+        projectDesc: 'This project developed a scalable and secure API with efficient CRUD operations and RESTful services, prioritizing user data security and easy deployment for future scalability.',
+        tags: [ 'Python', 'FastAPI', 'SQLAlchemy', 'Docker'],
+        code: 'https://github.com/DharaniDJ/Listify_App',
+        demo: 'https://github.com/DharaniDJ/Listify_App',
         image: three
     },
     {
         id: 4,
-        projectName: 'Android Patient Tracker',
-        projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-        tags: ['Flutter', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Kiwi Language',
+        projectDesc: 'This project involved developing Kiwi, an intuitive imperative programming language with a minimalistic design, familiar syntax, and comprehensive functionality including data types, logic operators, and control flow structures.',
+        tags: ['Python', 'ANTLR'],
+        code: 'https://github.com/DharaniDJ/Kiwilang',
+        demo: 'https://github.com/DharaniDJ/Kiwilang',
         image: four
     },
     {
@@ -50,8 +50,8 @@ export const projectsData = [
         projectName: 'E-Commerce App',
         projectDesc: 'A Simple E-commerce application',
         tags: ['React Native', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/DharaniDJ/Listify_App',
+        demo: 'https://github.com/DharaniDJ/Listify_App',
         image: five
     },
     {
@@ -59,8 +59,8 @@ export const projectsData = [
         projectName: 'Uber Lite',
         projectDesc: 'Uber clone',
         tags: ['Flutter'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/DharaniDJ/Listify_App',
+        demo: 'https://github.com/DharaniDJ/Listify_App',
         image: six
     },
     {
@@ -68,8 +68,8 @@ export const projectsData = [
         projectName: 'Stock Market App',
         projectDesc: 'A simple stock market API app',
         tags: ['React', 'Redux', 'Bootstrap'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/DharaniDJ/Listify_App',
+        demo: 'https://github.com/DharaniDJ/Listify_App',
         image: seven
     },
     {
@@ -77,8 +77,8 @@ export const projectsData = [
         projectName: 'Car Pooling System',
         projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
         tags: ['Flutter', 'React'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/DharaniDJ/Listify_App',
+        demo: 'https://github.com/DharaniDJ/Listify_App',
         image: eight
     },
 ]
