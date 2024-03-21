@@ -1,7 +1,7 @@
 export const socialsData = {
     github: 'https://github.com/DharaniDJ',
     facebook: 'https://www.facebook.com/',
-    linkedIn: 'https://www.linkedin.com/in',
+    linkedIn: 'https://www.linkedin.com/in/dharani-chinta/',
     instagram: 'https://www.instagram.com/dharanichinta/',
     codepen: 'https://codepen.io/',
     twitter: 'https://twitter.com/',
